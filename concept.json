@@ -1,0 +1,11 @@
+{
+  "slug": "launch-receipt",
+  "name": "Launch Receipt",
+  "kind": "token",
+  "description": "Generate a plain-English receipt of mint authorities, supply, metadata, and risks.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
