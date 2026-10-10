@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "launch-receipt"
+abstract: "Generate a plain-English receipt of mint authorities, supply, metadata, and risks."
+repository-code: "https://github.com/nirholas/launch-receipt"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
