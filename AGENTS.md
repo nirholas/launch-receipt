@@ -8,7 +8,7 @@ Generate a plain-English receipt of mint authorities, supply, metadata, and risk
 
 - Source: https://github.com/nirholas/launch-receipt
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
